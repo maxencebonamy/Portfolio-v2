@@ -17,14 +17,14 @@ function ProjectBox({project, reverse}) {
                 <div className="project_footer">
                     {
                         (project.github != null) ?
-                            <a className="project_icon_link" href={project.github}>
+                            <a className="project_icon_link" href={project.github} target="_blank">
                                 <img src={github_icon} alt="github" />
                             </a>
                             : <div />
                     }
                     {
                         (project.run != null) ?
-                            <a className="project_icon_link" href={project.run}>
+                            <a className="project_icon_link" href={project.run} target="_blank">
                                 <img src={run_icon} alt="run" />
                             </a>
                             : <div />

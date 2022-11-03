@@ -9,11 +9,11 @@ function NavBar() {
     return (
         <div id="navbar">
             <div id="navbar_left_container">
-                <a href="#"><img src={profile} alt="profile" id="navbar_profile" /></a>
+                <a href="https://maxencebonamy.fr"><img src={profile} alt="profile" id="navbar_profile" /></a>
             </div>
 
             <div id="navbar_right_container">
-                <a href="#" className="navbar_link"><p>Home</p></a>
+                <a href="#home" className="navbar_link"><p>Home</p></a>
                 <a href="#about" className="navbar_link"><p>About</p></a>
                 <a href="#projects" className="navbar_link"><p>Projects</p></a>
                 <a href="#skills" className="navbar_link"><p>Skills</p></a>

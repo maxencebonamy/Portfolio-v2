@@ -60,4 +60,35 @@
   color: #000000;
 }
 
+@media screen and (max-width: 1280px) {
+  .contact_box {
+    height: 80px;
+    width: 80px;
+  }
+
+  .contact_box_link:hover #contact_box_text_linkedin {
+    width: 130px;
+  }
+  .contact_box_link:hover #contact_box_text_twitter {
+    width: 90px;
+  }
+  .contact_box_link:hover #contact_box_text_instagram {
+    width: 130px;
+  }
+  .contact_box_link:hover #contact_box_text_github {
+    width: 120px;
+  }
+  .contact_box_link:hover #contact_box_text_mail {
+    width: 192px;
+  }
+
+  .contact_box_icon {
+    width: 30px;
+  }
+
+  .contact_box_text span h4 {
+    font-size: 15px;
+  }
+}
+
 /*# sourceMappingURL=contact_box.css.map */
