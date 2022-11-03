@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Sand Box",
+        "description": "In this window, you have about ten elements that you can arrange where you want. Then, each element evolves according to the laws of physics. For example, water flows, ice melts and wood burns...",
+        "github": "https://github.com/maxencebonamy/Sand-Box",
+        "run": "https://github.com/maxencebonamy/Sand-Box/releases/tag/v1.0",
+        "skills": ["C++", "SFML"],
+        "gif": "sand_box"
+    },
+    {
+        "name": "Maze Solver",
+        "description": "After generating a maze, it is automatically solved by differents algorithms that you can choose, both for teh generation and for the resolution.",
+        "github": "https://github.com/maxencebonamy/Maze-Generator-Solver",
+        "run": null,
+        "skills": ["C++", "SFML"],
+        "gif": "maze_generator_solver"
+    },
+    {
+        "name": "Esprit Packaging",
+        "description": "Being part of a Junior Entreprise in my school, I have the opportunity to realize orders for companies. For example, I updated the website of a packaging company.",
+        "github": null,
+        "run": "https://espritpack.com",
+        "skills": ["WordPress", "PHP", "Figma"],
+        "gif": "esprit_pack"
+    },
+    {
+        "name": "Minecraft Survival",
+        "description": "This is my first video game made from scratch. As its name indicates, it is based on the principle of Minecraft, but the gameplay changes completely.",
+        "github": "https://github.com/maxencebonamy/Minecraft-Survival",
+        "run": null,
+        "skills": ["Python", "Pygame", "Figma", "Illustrator"],
+        "gif": "minecraft_survival"
+    },
+    {
+        "name": "Joystick Timer",
+        "description": "This is a timer made with an Arduino Uno board and two components: a joystick and a 4x7 segments display.",
+        "github": "https://github.com/maxencebonamy/Joystick-Timer",
+        "run": null,
+        "skills": ["C++", "Arduino"],
+        "gif": "joystick_timer"
+    },
+    {
+        "name": "Fractal Explorer",
+        "description": "A fractal is a particularly aesthetic mathematical object in which one can, among other things, zoom to infinity and find the basic pattern, which can be experienced here.",
+        "github": "https://github.com/maxencebonamy/Fractal-Explorer",
+        "run": null,
+        "skills": ["C++", "SFML"],
+        "gif": "fractal_explorer"
+    },
+    {
+        "name": "EseoNova",
+        "description": "Every year in my school there is a campaign week to elect the next Student Union. So I made the website of the \"EseoNova\" list.",
+        "github": "https://github.com/maxencebonamy/EseoNova",
+        "run": "https://eseonova.fr",
+        "skills": ["HTML", "CSS", "Figma"],
+        "gif": "eseonova"
+    },
+    {
+        "name": "Outbreak Simulation",
+        "description": "This simulation is a model (therefore far from corresponding to reality) of an epidemic that would reach a given population represented by a grid, where each cell represents an individual.",
+        "github": "https://github.com/maxencebonamy/Outbreak-Simulation",
+        "run": null,
+        "skills": ["Python", "Pygame", "Matplotlib"],
+        "gif": "outbreak_simulation"
+    }
+]

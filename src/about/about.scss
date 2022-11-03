@@ -1,0 +1,48 @@
+@import "../_utils/colors";
+
+
+#about {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+
+    width: 100%;
+    padding-top: 50px;
+}
+
+
+#about_content_container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+    gap: 100px;
+}
+
+#about_text {
+    text-align: center;
+    width: 30%;
+}
+
+#about_profile {
+    max-height: 40vh;
+    max-width: 30vw;
+}
+
+@media screen and (max-width: 1280px) {
+    #about_content_container {
+        flex-direction: column;
+        gap: 50px;
+    }
+
+    #about_text {
+        width: 80%;
+    }
+
+    #about_profile {
+        max-height: 40vh;
+        max-width: 60vw;
+    }
+}

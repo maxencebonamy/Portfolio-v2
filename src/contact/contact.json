@@ -1,0 +1,27 @@
+[
+    {
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/maxencebonamy/",
+        "text": "in/maxencebonamy"
+    },
+    {
+        "icon": "twitter",
+        "link": "https://twitter.com/__Hyunkel__",
+        "text": "@__Hyunkel__"
+    },
+    {
+        "icon": "instagram",
+        "link": "https://www.instagram.com/maxencebonamy/",
+        "text": "@maxencebonamy"
+    },
+    {
+        "icon": "github",
+        "link": "https://github.com/maxencebonamy",
+        "text": "maxencebonamy"
+    },
+    {
+        "icon": "mail",
+        "link": "mailto:maxencebonamy@gmail.com",
+        "text": "maxencebonamy@gmail.com"
+    }
+]

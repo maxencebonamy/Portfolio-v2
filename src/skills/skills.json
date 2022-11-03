@@ -1,0 +1,125 @@
+{
+    "software": [
+        {
+            "name": "C++",
+            "icon": "cpp"
+        },
+        {
+            "name": "SFML",
+            "icon": "sfml"
+        },
+        {
+            "name": "CMake",
+            "icon": "cmake"
+        },
+        {
+            "name": "Python",
+            "icon": "python"
+        },
+        {
+            "name": "Tkinter",
+            "icon": "tkinter"
+        },
+        {
+            "name": "Pygame",
+            "icon": "pygame"
+        },
+        {
+            "name": "Java",
+            "icon": "java"
+        },
+        {
+            "name": "Git",
+            "icon": "git"
+        }
+    ],
+
+    "hardware": [
+        {
+            "name": "C",
+            "icon": "c"
+        },
+        {
+            "name": "Assembly",
+            "icon": "assembly"
+        },
+        {
+            "name": "STM32",
+            "icon": "stm32"
+        },
+        {
+            "name": "C++",
+            "icon": "cpp"
+        },
+        {
+            "name": "Arduino",
+            "icon": "arduino"
+        },
+        {
+            "name": "Python",
+            "icon": "python"
+        },
+        {
+            "name": "Raspberry Pi",
+            "icon": "raspberry_pi"
+        }
+    ],
+
+    "web": [
+        {
+            "name": "HTML",
+            "icon": "html"
+        },
+        {
+            "name": "CSS",
+            "icon": "css"
+        },
+        {
+            "name": "SASS",
+            "icon": "sass"
+        },
+        {
+            "name": "JavaScript",
+            "icon": "javascript"
+        },
+        {
+            "name": "React",
+            "icon": "react"
+        },
+        {
+            "name": "SQL",
+            "icon": "sql"
+        },
+        {
+            "name": "WordPress",
+            "icon": "wordpress"
+        },
+        {
+            "name": "Git",
+            "icon": "git"
+        }
+    ],
+
+    "design": [
+        {
+            "name": "PhotoShop",
+            "icon": "photoshop"
+        },
+        {
+            "name": "Illustrator",
+            "icon": "illustrator"
+        },
+        {
+            "name": "Paint.net",
+            "icon": "paint_net"
+        },
+        {
+            "name": "Figma",
+            "icon": "figma"
+        },
+        {
+            "name": "Blender",
+            "icon": "blender"
+        }
+    ]
+}
