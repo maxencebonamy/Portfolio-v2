@@ -16,9 +16,9 @@ function Footer() {
                 </a>
             </div>
             <p id="footer_text">
-                Built by Maxence Bonamy using ReactJS and CSS.
+                Built by Maxence Bonamy using React and SASS.
                 <br />
-                Thank you for reading to the end, I hope you enjoyed this website.
+                Thank you for reading until the end, I hope you enjoyed this website.
             </p>
         </div>
     );

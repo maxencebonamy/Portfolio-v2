@@ -1,7 +1,7 @@
 [
     {
         "name": "Sand Box",
-        "description": "In this window, you have about ten elements that you can arrange where you want. Then, each element evolves according to the laws of physics. For example, water flows, ice melts and wood burns...",
+        "description": "In this window, there are about ten elements that you can arrange wherever you want. Then, each element evolves according to the laws of physics. For example, water flows, ice melts and wood burns...",
         "github": "https://github.com/maxencebonamy/Sand-Box",
         "run": "https://github.com/maxencebonamy/Sand-Box/releases/tag/v1.0",
         "skills": ["C++", "SFML"],
@@ -9,7 +9,7 @@
     },
     {
         "name": "Maze Solver",
-        "description": "After generating a maze, it is automatically solved by differents algorithms that you can choose, both for teh generation and for the resolution.",
+        "description": "After generating a maze, it is automatically solved by different algorithms that you can choose, both for the generation and for the resolution.",
         "github": "https://github.com/maxencebonamy/Maze-Generator-Solver",
         "run": null,
         "skills": ["C++", "SFML"],
@@ -17,7 +17,7 @@
     },
     {
         "name": "Esprit Packaging",
-        "description": "Being part of a Junior Entreprise in my school, I have the opportunity to realize orders for companies. For example, I updated the website of a packaging company.",
+        "description": "Being part of a Junior Entreprise in my school, I have the opportunity to realize orders for companies. For example, I upgraded the website of a packaging company.",
         "github": null,
         "run": "https://espritpack.com",
         "skills": ["WordPress", "PHP", "Figma"],
@@ -57,7 +57,7 @@
     },
     {
         "name": "Outbreak Simulation",
-        "description": "This simulation is a model (therefore far from corresponding to reality) of an epidemic that would reach a given population represented by a grid, where each cell represents an individual.",
+        "description": "This simulation is a model (therefore far from matching reality) of an epidemic that would reach a given population represented by a grid, where each cell represents an individual.",
         "github": "https://github.com/maxencebonamy/Outbreak-Simulation",
         "run": null,
         "skills": ["Python", "Pygame", "Matplotlib"],
