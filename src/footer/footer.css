@@ -1,0 +1,62 @@
+#footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  padding: 100px 0;
+  gap: 100px;
+  background: linear-gradient(-90deg, #030508, #1E3653, #030508);
+  background-size: 400% 400%;
+  animation: gradient 15s ease infinite;
+}
+
+@keyframes gradient {
+  0% {
+    background-position: 0 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0 50%;
+  }
+}
+#footer_github {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 80%;
+}
+#footer_github a {
+  text-decoration: none;
+}
+#footer_github p {
+  color: #FFFFFF;
+  transition: all 0.2s linear;
+}
+#footer_github p:hover {
+  color: #E1A730;
+}
+
+#footer_text {
+  color: #FFFFFF;
+  text-align: center;
+}
+
+@media screen and (max-width: 1280px) {
+  #footer_github {
+    flex-direction: column;
+    gap: 50px;
+  }
+  #footer_github p {
+    text-align: center;
+  }
+
+  #footer_text {
+    width: 90%;
+  }
+}
+
+/*# sourceMappingURL=footer.css.map */

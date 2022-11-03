@@ -1,0 +1,131 @@
+.project_box, .reversed_project_box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 80%;
+  height: fit-content;
+  margin-bottom: 50px;
+}
+
+.project_box {
+  flex-direction: row;
+}
+
+.reversed_project_box {
+  flex-direction: row-reverse;
+}
+
+.project_gif {
+  width: 50%;
+  margin: 0 25px;
+  border-radius: 40px;
+}
+
+.project_content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  width: 30%;
+  margin: 0 25px;
+}
+
+.project_title {
+  width: 100%;
+  padding: 10px 0;
+  background-color: #1E3653;
+  border-radius: 30px;
+  text-align: center;
+  letter-spacing: 2px;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+.project_description {
+  margin-bottom: 20px;
+}
+
+.project_footer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.project_icon_link {
+  text-decoration: none;
+  margin-right: 20px;
+  filter: invert(78%) sepia(61%) saturate(700%) hue-rotate(335deg) brightness(93%) contrast(89%);
+  transition: all 0.2s linear;
+}
+.project_icon_link img {
+  height: 50px;
+  margin: 5px;
+  transition: all 0.1s linear;
+}
+.project_icon_link:hover img {
+  height: 60px;
+  margin: 0;
+}
+
+.project_skill {
+  color: #E1A730;
+  margin-right: 20px;
+  font-weight: bold;
+}
+
+@media screen and (max-width: 1280px) {
+  .project_box, .reversed_project_box {
+    flex-direction: column-reverse;
+    width: 90%;
+    margin-bottom: 80px;
+  }
+
+  .project_gif {
+    margin-top: 20px;
+    width: 100%;
+  }
+
+  .project_content {
+    width: 100%;
+  }
+
+  .project_title {
+    font-size: 25px;
+  }
+
+  .project_description {
+    text-align: center;
+  }
+
+  .project_icon_link img {
+    height: 30px;
+  }
+  .project_icon_link:hover img {
+    height: 40px;
+    margin: 0;
+  }
+
+  .project_skill {
+    font-size: 15px;
+  }
+}
+@media screen and (max-width: 1600px) {
+  .project_title {
+    font-size: 25px;
+  }
+
+  .project_icon_link img {
+    height: 30px;
+  }
+  .project_icon_link:hover img {
+    height: 40px;
+    margin: 0;
+  }
+
+  .project_skill {
+    font-size: 15px;
+  }
+}
+
+/*# sourceMappingURL=project_box.css.map */

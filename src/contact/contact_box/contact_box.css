@@ -1,0 +1,63 @@
+.contact_box {
+  margin: 10px;
+  height: 100px;
+  width: 100px;
+  border-radius: 10px;
+  background-color: #FFFFFF;
+  box-shadow: rgba(0, 0, 0, 0.5) 0 0 10px;
+  transition: width 0.5s ease-in-out;
+}
+.contact_box:hover {
+  padding-right: 200px;
+}
+.contact_box_link {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 25px 10px 25px 25px;
+  border-radius: 20px;
+  background-color: #FFFFFF;
+  filter: drop-shadow(0px 0px 10px rgba(30, 54, 83, 0.2));
+  gap: 15px;
+  text-decoration: none;
+  transition: padding 0.5s ease-in-out;
+  margin: 20px;
+}
+.contact_box_link:hover {
+  padding-right: 25px;
+}
+.contact_box_link:hover #contact_box_text_linkedin {
+  width: 220px;
+}
+.contact_box_link:hover #contact_box_text_twitter {
+  width: 150px;
+}
+.contact_box_link:hover #contact_box_text_instagram {
+  width: 210px;
+}
+.contact_box_link:hover #contact_box_text_github {
+  width: 190px;
+}
+.contact_box_link:hover #contact_box_text_mail {
+  width: 320px;
+}
+
+.contact_box_icon {
+  width: 50px;
+}
+
+.contact_box_text {
+  overflow: hidden;
+  width: 0;
+  transition: width 0.5s ease-in-out;
+}
+.contact_box_text span {
+  white-space: nowrap;
+}
+.contact_box_text span h4 {
+  font-size: 25px;
+  color: #000000;
+}
+
+/*# sourceMappingURL=contact_box.css.map */
