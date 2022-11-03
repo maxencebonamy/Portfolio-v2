@@ -65,7 +65,7 @@
 
 .skill_button {
   color: #1E3653;
-  background-color: #FFFFFF;
+  background-color: #ECECEC;
   transition: all 0.2s linear;
 }
 .skill_button:hover {
@@ -74,7 +74,7 @@
 }
 
 .selected_skill_button {
-  color: #FFFFFF;
+  color: #ECECEC;
   background-color: #1E3653;
 }
 

@@ -34,7 +34,7 @@
 }
 
 #home_title_name {
-  color: #FFFFFF;
+  color: #ECECEC;
 }
 
 #home_title_subtitle {
@@ -44,7 +44,7 @@
 #home_arrow {
   position: absolute;
   bottom: 50px;
-  color: #FFFFFF;
+  color: #ECECEC;
   text-align: center;
   text-decoration: none;
   -moz-animation: arrow_bounce 3s infinite;

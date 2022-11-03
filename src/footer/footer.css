@@ -33,7 +33,7 @@
   text-decoration: none;
 }
 #footer_github p {
-  color: #FFFFFF;
+  color: #ECECEC;
   transition: all 0.2s linear;
 }
 #footer_github p:hover {
@@ -41,7 +41,7 @@
 }
 
 #footer_text {
-  color: #FFFFFF;
+  color: #ECECEC;
   text-align: center;
 }
 

@@ -50,7 +50,7 @@
   margin: 0 25px;
 }
 .navbar_link p {
-  color: #FFFFFF;
+  color: #ECECEC;
   transition: all 0.2s linear;
 }
 .navbar_link p:hover {
